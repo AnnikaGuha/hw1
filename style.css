@@ -1,0 +1,84 @@
+body{
+    background-size: cover;
+}
+#heading{
+width: 100%;
+background-color: #7D83FF;
+width:70%;
+color: white;
+font-weight: bolder;
+font-size: 55;
+border-radius: 20px;
+}
+#d{
+    display: inline-block;
+}
+.img{
+    width:300px;
+}
+.welcome{
+    font-size: 40px;
+    font-weight: 800;
+ color:black
+}
+.welcome_li{
+    width:80%;
+    margin-left: 170px;
+    background-color:FFF07C;
+}
+.text{
+    font-size: 25px;
+    font-weight: 200;
+ color:black
+}
+.btn1{
+    border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px rgb(204, 255, 0);
+  color:aliceblue;
+}
+#object{
+    background: FFE3E3;
+}
+#heading2{
+    background-color:545863;
+    width:60%;
+    color: white;
+    font-weight: bolder;
+    font-size: 30;
+    border-radius: 15px;
+    }
+    canvas{
+        margin-top: 40px;
+        border-color: aliceblue;
+        border-width: 10px;
+        border-radius: 30px;
+        border-style: solid;
+        box-shadow: 20px 10px rgb(251, 255, 0);
+        
+    }
+    #input{
+        background-color: mistyrose;
+        width:400px;
+        font-size:20px;
+        
+        
+    }
+    #btn2{
+        background-color:F96E46 ;
+        color:white;
+        border-radius: 5px;
+        font-size: 20px;
+        font-weight: bolder;
+    }
+    .clickmediv{
+        width:70%;
+        font-size: 25px;
+        background-color: rgb(255, 221, 0);
+        border-radius: 15px;
+    }
+    .clickme{
+        background-color: rgb(255, 221, 0);
+        border-color:rgb(255, 221, 0);;
+    }
+
